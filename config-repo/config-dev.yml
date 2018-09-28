@@ -1,4 +1,4 @@
-hello: hello in dev changed again!xxx
+hello: hello in dev changed again!17:17
 consul:
   host: localhost
   port: 8500
