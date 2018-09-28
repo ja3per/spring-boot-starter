@@ -1,1 +1,4 @@
 hello: hello in dev changed again!xxx
+consul:
+  host: localhost
+  port: 8500
